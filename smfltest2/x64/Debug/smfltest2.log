@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\tim-laptop\source\repos\smfltest2\smfltest2\main.cpp(52): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tim-laptop\source\repos\smfltest2\smfltest2\main.cpp(52): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+sfml-graphics.lib(sfml-graphics-2.dll) : fatal error LNK1112: module machine type 'x86' conflicts with target machine type 'x64'

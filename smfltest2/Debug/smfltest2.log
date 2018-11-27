@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\tim-laptop\source\repos\smfltest2\smfltest2\main.cpp(57): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\tim-laptop\source\repos\smfltest2\smfltest2\main.cpp(57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  smfltest2.vcxproj -> C:\Users\Tim-Laptop\source\repos\smfltest2\Debug\smfltest2.exe
